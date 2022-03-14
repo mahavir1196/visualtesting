@@ -2,19 +2,15 @@
 
 https://mahavir1196.github.io/visualtesting/
 
-Example 3: 
-Content Diff
+Example 3:
+Content differences
 
 Example 4:
-Content differences,
-Color differences
+Content differences
 
 Example 5:
-Content differences,
-Color differences
+Content differences
 
 Example 6:
-Content differences, 
-Color differences
-
+Content differences
 
